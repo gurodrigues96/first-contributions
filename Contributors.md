@@ -9658,9 +9658,9 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 -ruth!!!
 - Hi, I'm marche4982!
 Hi, my name is michal
-- Heyy! I'm [Gustavo Rodrigues](https://github.com/gurodrigues96)from Brasil. This is my first ever Contribution!!
 - Hi! I'm [Kcaparas](https://github.com/kcaparas1630) from Canada. I'm a Junior Full-Stack Developer! Looking forward to working with you. 
 - Hi! I'm [Rithiellen](https://github.com/Rithiellen).
+- Heyy! I'm [Gustavo Rodrigues](https://github.com/gurodrigues96)from Brasil. This is my first ever Contribution!!
 - Hi! I'm Aki Laukkanen (https://github.com/NerdAdventurer)
 - Hi! I'm [Agustin Bereciartua](https://github.com/galenzo17) from Argentina/Chile. I'm in love with software 🤓
 - Hi! I'm [Ajay Kanyal](https://github.com/Ajay199903) from India. I'm starting my Open Source Journey with this commit.
