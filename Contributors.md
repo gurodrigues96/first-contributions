@@ -9660,12 +9660,13 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 Hi, my name is michal
 - Hi! I'm [Kcaparas](https://github.com/kcaparas1630) from Canada. I'm a Junior Full-Stack Developer! Looking forward to working with you. 
 - Hi! I'm [Rithiellen](https://github.com/Rithiellen).
-- Heyy! I'm [Gustavo Rodrigues](https://github.com/gurodrigues96)from Brasil. This is my first ever Contribution!!
 - Hi! I'm Aki Laukkanen (https://github.com/NerdAdventurer)
 - Hi! I'm [Agustin Bereciartua](https://github.com/galenzo17) from Argentina/Chile. I'm in love with software 🤓
 - Hi! I'm [Ajay Kanyal](https://github.com/Ajay199903) from India. I'm starting my Open Source Journey with this commit.
 - Hi, I'm [Brendon](https://github.com/breworld-dev) from Uganda. I'm a junior flutter, front end and aspiring Full-Stack Developer.
 - Hi! I'm gotocoto!
+- Heyy! I'm [Gustavo Rodrigues](https://github.com/gurodrigues96)from Brasil. This is my first ever Contribution!!
+- Heyy! I'm [Gustavo Rodrigues](https://github.com/gurodrigues96)from Brasil. This is my first ever Contribution!!
 - Hi 👋, I'm [Hend](https://github.com/hendhamdi)from Tunisia. I'm a Junior Full Stack Developer and UI/UX Designer 💻😊.
 - Wassup, amogus here
 - Heyy! I'm [Kaustubh](https://github.com/FrogBlaster123)from India. This is my first ever Contribution!!
